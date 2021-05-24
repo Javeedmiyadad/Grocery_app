@@ -1,0 +1,149 @@
+## Fruits & Vegetables (catg1)##
+----------------------------
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1000','Tomato','Tomato - Local, organically grown, 1kg - Rs12.99(Inclusive of all taxes)', 'assets/images/products/vegetables/tomato.png', 1, 100, 12.99, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1001','Potato', 'Tomato - organically grown, 1kg - Rs28.00(Inclusive of all taxes)', 'assets/images/products/vegetables/potato.png', 1, 100, 28.00, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1002','Capsicum', 'Capsicum - green, organically grown, 1kg-Rs16.99(Inclusive of all taxes)', 'assets/images/products/vegetables/capsicum.png', 1, 100, 14.99, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1003','Onion', 'Onion - organically grown, 1kg - Rs40.00(Inclusive of all taxes)', 'assets/images/products/vegetables/onion.png', 1, 100, 40.00, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1004','Cucumber', 'Cucumber - organically grown, 500g - Rs8.00(Inclusive of all taxes)', 'assets/images/products/vegetables/cucumber.png', 1, 100, 8, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1005','Carrot', 'Carrot - organically grown, vitamin A enriched, 1kg - Rs24.00(Inclusive of all taxes)', 'assets/images/products/vegetables/carrot.png', 1, 100, 24.00, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1006','Watermelon', 'Watermelon - Striped ,Large,organically grown,1pc 4-5.5kg - Rs38.87(Inclusive of all taxes)', 'assets/images/products/vegetables/watermelon.png', 1, 100, 38.87, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1007', 'Apple', 'Apple - Red Delicious, Regular, 4 pcs - Approx. 530g - 640g - Rs179.00(Inclusive of all taxes)', 'assets/images/products/vegetables/app.png', 1, 100, 179.00, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1008','Mango', 'Mango - Alphonso Badami,organically grown, 6pcs - Approx. 900g - 1200g - Rs84.38.00(Inclusive of all taxes)', 'assets/images/products/vegetables/mango.png', 1, 100, 84.38, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1009','Pomegranate', 'Pomegranate - organically grown, 4pcs - Approx. 800g - 880g - Rs145.00(Inclusive of all taxes)', 'assets/images/products/vegetables/pomo.png', 1, 100, 145.00, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1010','Orange', 'Orange - Vitamin C enriched, Fresh and Healthy, 1kg - Rs168.98.00', 'assets/images/products/vegetables/orange.png', 1, 100, 168.98, 1, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1011','Guava', 'Guava - Organically grown, 1kg - Rs50.00(Inclusive of all taxes)', 'assets/images/products/vegetables/guava.png', 1, 100, 50.00, 1, NOW());
+
+## Dairy products (catg2) ##
+----------------------------
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1012','Milk','Nandini GoodLife Homogenized & UHT Processed Cow Toned Milk - No Preservatives, 500 ml Pouch - Rs24.74(Inclusive of all taxes)', 'assets/images/products/dairy_products/milk.png', 1, 50, 24.74, 2, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1013','Curd','mother dairy Classic Dahi - Pasteurised Toned Milk, No Preservatives, 400 g Cup - Rs50(Inclusive of all taxes)', 'assets/images/products/dairy_products/curd.png', 1, 50, 50.00, 2, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1014','Mozzarella Cheese','Milky Mist Cow Milk Mozzarella Cheese Shredded - Rich in Vitamin A, 200 g Pouch - Rs 125(Inclusive of all taxes)
+', 'assets/images/products/dairy_products/cheese.png', 1, 50, 125.00, 2, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1015','Buttermilk','Butter Milk - Ginger & Jeera (Spiced), 5x200 ml (Multipack) - Rs50.00(Inclusive of all taxes)', 'assets/images/products/dairy_products/buttermilk.png', 1, 100, 50.00, 2, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1016','Paneer','Amul Malai Paneer, Premiun and Fresh, 200 g Pouch - 67.00(Inclusive of all taxes)', 'assets/images/products/dairy_products/paneer.png', 1, 100, 67.00, 2, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1017','Ghee','Grb Ghee, 2 x 500 ml Multipack - Rs634.00(Inclusive of all taxes)', 'assets/images/products/dairy_products/ghee.png', 1, 150, 634.00, 2, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1018','Butter','Amul Butter - Pasteurized, 4x100 g Multipack - Rs178.20(Inclusive of all taxes)', 'assets/images/products/dairy_products/butter.png', 1, 50, 178.20, 2, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1019','Cheese','Amul Processed 100% Pure Milk Cheese Spread - Yummy Plain, Low Cholesterol, 200 g Tub - Rs85(Inclusive of all taxes)', 'assets/images/products/dairy_products/cheese.png', 1, 100, 85.00, 2, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1000','Milk','Amul Taaza Homogenized Toned Milk - Fortified with Vitamins A & D, 500 ml Carton - Rs33.00(Inclusive of all taxes)', 'assets/images/products/dairy_products/milk1.png', 1, 100, 33.00, 2, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('VEG-SHOP-1020','Cheese sause','Amul Cheese Sauce - Pizza, 200 g - Rs70.00(Inclusive of all taxes)', 'assets/images/products/dairy_products/cheesesauce.png', 1, 100, 70.00, 2, NOW());
+
+
+## whole Grains, oils and masalas (catg4) ##
+
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3005','Malabar Fish','Fresh Malabar Fish (cut as per preference), Fresh From Malabar River Fram ,Infection & Bacteria Free,  1 Kg => Rs 599.00(Inclusive of all taxes)', 'assets/imges/products/Meat/catlafish.png', 1, 100, 599.00, 3, NOW());
+------------------------------------
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4001','Atta','Aashirvaad Atta/Godihittu - Whole Wheat, 10 kg Pouch - Rs379.00(Inclusive of all taxes)', 'assets/img/prod-img/catg4/atta.png', 1, 100, 379.00, 4, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4002','Rice','bb Royal Sona Masoori Steam Rice/Akki, 10 kg (6 - 9 Months Old) - Rs432(Inclusive of all taxes)', 'assets/img/prod-img/catg4/rice.png', 1, 100, 432.00, 4, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4003','Oil','Gold Winner Refined - Sunflower Oil, 1 L Pouch - Rs200(Inclusive of all taxes)', 'assets/img/prod-img/catg4/oil.png', 1, 100, 200.00, 4, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4004','Sugar','bb Royal Organic - Sugar/Sakkare, 2 kg - Rs300.00(Inclusive of all taxes)', 'assets/img/prod-img/catg4/sugar.png', 1, 100, 300.00, 4, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4005','Turmeric','Tata Sampann Turmeric Powder/Arisina Pudi, 200 g - Rs49.00(Inclusive of all taxes)', 'assets/img/prod-img/catg4/turmeric.png', 1, 100, 49.00, 4, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4006','Urad Dal','bb Popular Urad Dal/Uddina Bele - Split, 1 kg Pouch - Rs127.00(Inclusive of all taxes)', 'assets/img/prod-img/catg4/urad.png', 1, 100, 127.00, 4, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4007','Coriander Powder','MTR Powder - Coriander, 200 g Pouch - Rs250.00(Inclusive of all taxes)', 'assets/img/prod-img/catg4/masala.png', 1, 100, 250.00, 4, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4008','Cashew','bb Popular Cashew/Godambi - Whole, 1 kg - Rs970.00(Inclusive of all taxes)', 'assets/img/prod-img/catg4/cashew.png', 1, 100, 970.00, 4, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4009','Cardamom','bb Royal Organic - Cardamom Green/Elakki, 100 g - Rs349.00(Inclusive of all taxes)', 'assets/img/prod-img/catg4/elachi.png', 1, 100, 349.00, 4, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('OIL-SHOP-4010','Chilli Flakes','Keya Chilli Flakes - Red, 40 g Bottle - Rs68.00(Inclusive of all taxes)', 'assets/img/prod-img/catg4/chilliflakes.png', 1, 100, 68.00, 4, NOW());
+
+
+## Egg, Fish & Meat (catg3) ##
+----------------------------
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3001','White Egg','Fresh White Eggs , Fresh From Fram ,Infection & Bacteria Free,  6 units => Rs 30.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/white-eggs.png', 1, 100, 30.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3002','Brown Egg','Fresh Brown Eggs , Fresh From Fram ,Infection & Bacteria Free,  6 units => Rs 48.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/brown-eggs.png', 1, 100, 48.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3003','Catla Fish','Fresh Catla Fish (cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 499.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/catla-fish.png', 1, 100, 499.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3004','Mackerel Fish','Fresh Mackerel Fish (cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 299.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/mackerel-fish.png', 1, 100, 299.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3005','Malabar Fish','Fresh Malabar Fish (cut as per preference), Fresh From Malabar River Fram ,Infection & Bacteria Free,  1 Kg => Rs 599.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/malabar-fish.png', 1, 100, 599.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3006','Rohu Fish','Fresh Rohu Fish (cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 399.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/rohu-fish.png', 1, 100, 399.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3007','Roopchand Fish','Fresh Roopchand Fish (cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 499.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/roopchand-fish.png', 1, 100, 499.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3008','Tilapai Fish','Fresh Tilapai Fish ( cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 399.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/tilapia-fish.png', 1, 100, 399.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3009','Tiger Prawn','Fresh Tiger Prawns (with peels), Premium A1 Prawns, Fresh From Sea Framing Sites ,Infection & Bacteria Free,  1 Kg => Rs 2399.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/white-prawn.png', 1, 100, 2399.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3010','White Prawn','Fresh River Prawns (with peels), Fresh From River Fram Sites,Infection & Bacteria Free,  1 Kg => Rs 499.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/prawns-peeled.png', 1, 100, 499.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3011','Mutton Boneless','Fresh Mutton Boneless Cut Piece (Khasi | Halal cut), Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 629.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/mutton-boneless.png', 1, 100, 629.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3012','Mutton Biriyan Cut','Fresh Mutton Curry Cut Piece (Khasi | Halal cut),  Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 659.00(Inclusive of all taxes)','assets/img/prod-img/catg3/mutton-biryani.png', 1, 100, 659.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3013','Mutton Curry Cut','Fresh Mutton Curry Cut Piece (Khasi | Halal cut),  Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 599.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/mutton-currycut.png', 1, 100, 599.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3014','Chicken Curry cut','Fresh Chicken Curry Cut Piece (without skin | Halal cut), Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 209.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/chicken.png', 1, 100, 209.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3015','Chicken Drumsticks','Fresh Chicken Drumsticks Cut Piece (without skin | Halal cut), Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 259.00(Inclusive of all taxes)', 'assets/img/prod-img/catg3/chicken-drum.png', 1, 100, 259.00, 3, NOW());
+exit
+
+								 
+ INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3001','Egg','Fresh Eggs , Fresh From Fram ,Infection & Bacteria Free,  6 units => Rs 30.00(Inclusive of all taxes)', 'assets/images/products/Meat/eggs.png', 1, 100, 30.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3003','Catla Fish','Fresh Catla Fish (cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 499.00(Inclusive of all taxes)', 'assets/images/products/Meat/catlafish.png', 1, 100, 499.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3004','Mackerel Fish','Fresh Mackerel Fish (cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 299.00(Inclusive of all taxes)', 'assets/images/products/Meat/mackerelfish.png', 1, 100, 299.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3005','Malabar Fish','Fresh Malabar Fish (cut as per preference), Fresh From Malabar River Fram ,Infection & Bacteria Free,  1 Kg => Rs 599.00(Inclusive of all taxes)', 'assets/images/products/Meat/bonelessfish.png', 1, 100, 599.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3006','Rohu Fish','Fresh Rohu Fish (cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 399.00(Inclusive of all taxes)', 'assets/images/products/Meat/rohufish.png', 1, 100, 399.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3007','Roopchand Fish','Fresh Roopchand Fish (cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 499.00(Inclusive of all taxes)', 'assets/images/products/Meat/roopchandfish.png', 1, 100, 499.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3008','Tilapai Fish','Fresh Tilapai Fish ( cut as per preference), Fresh From River Fram ,Infection & Bacteria Free,  1 Kg => Rs 399.00(Inclusive of all taxes)', 'assets/images/products/Meat/tilapiafish.png', 1, 100, 399.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3009','Tiger Prawn','Fresh Tiger Prawns (with peels), Premium A1 Prawns, Fresh From Sea Framing Sites ,Infection & Bacteria Free,  1 Kg => Rs 2399.00(Inclusive of all taxes)', 'assets/images/products/Meat/prawns.png', 1, 100, 2399.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3010','White Prawn','Fresh River Prawns (with peels), Fresh From River Fram Sites,Infection & Bacteria Free,  1 Kg => Rs 499.00(Inclusive of all taxes)', 'assets/images/products/Meat/whiteprawn.png', 1, 100, 499.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3011','Mutton Boneless','Fresh Mutton Boneless Cut Piece (Khasi | Halal cut), Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 629.00(Inclusive of all taxes)', 'assets/images/products/Meat/muttonboneless.png', 1, 100, 629.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3012','Mutton Biriyan Cut','Fresh Mutton Curry Cut Piece (Khasi | Halal cut),  Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 659.00(Inclusive of all taxes)','assets/images/products/Meat/muttonbiryani.png', 1, 100, 659.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3013','Mutton Curry Cut','Fresh Mutton Curry Cut Piece (Khasi | Halal cut),  Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 599.00(Inclusive of all taxes)', 'assets/images/products/Meat/muttoncurrycut.png', 1, 100, 599.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3014','Chicken Curry cut','Fresh Chicken Curry Cut Piece (without skin | Halal cut), Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 209.00(Inclusive of all taxes)', 'assets/images/products/Meat/chicken.png', 1, 100, 209.00, 3, NOW());
+INSERT INTO product (sku, name, description, image_url, active, units_in_stock, unit_price, category_id,date_created) 
+VALUES ('NON-VEG-SHOP-3015','Chicken Drumsticks','Fresh Chicken Drumsticks Cut Piece (without skin | Halal cut), Fresh From Farm, Infection & Bacteria Free,  1 Kg => Rs 259.00(Inclusive of all taxes)', 'assets/images/products/Meat/chickendrumstick.png', 1, 100, 259.00, 3, NOW());
+
+
+
+client id : 0oasom6jonQNPusiQ5d6
+okta domain :dev-91636521.okta.com
+
+http://localhost:8080/swagger-ui.html#/
